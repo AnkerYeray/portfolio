@@ -15,7 +15,7 @@ CSS3 para el diseño visual y la disposición de los elementos, permitiendo un d
 
 
 Accesibilidad y sostenibilidad digital:
-En el desarrollo del sitio se buscó priorizar una perspectiva de sostenibilidad y accesibilidad. En ese marco las etiquetas semánticas (como <header>, <nav>, <main>, <section>, y <ul> ), la declaración de lenguaje (lang="es") en la etiqueta <html> y la descripción detallada en el atributo "alt" de cada imágen se vuelven fundamentales ya que ayudan -principalmente- a los lectores de pantalla a interpretar correctamente el contenido, mejorando la experiencia de usuarios con discapacidades.
+En el desarrollo del sitio se buscó priorizar una perspectiva de sostenibilidad y accesibilidad. En ese marco las etiquetas semánticas (como < header >, < nav >, < main >, < section >, y < ul > ), la declaración de lenguaje (lang="es") en la etiqueta < html > y la descripción detallada en el atributo "alt" de cada imágen se vuelven fundamentales ya que ayudan -principalmente- a los lectores de pantalla a interpretar correctamente el contenido, mejorando la experiencia de usuarios con discapacidades.
 A su vez, se utilizó el formato webp para las imágenes reduciendo su peso sin perder calidad, lo que optimiza la utilización de recursos. 
 
 
